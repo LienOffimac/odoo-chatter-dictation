@@ -1,5 +1,5 @@
 {
-    "name": "Chatter Dictation",
+    "name": "Chatter Voice to text",
     "summary": "Dictate notes and messages in the chatter with a microphone button",
     "description": """
 Chatter Dictation
