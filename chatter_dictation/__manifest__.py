@@ -16,7 +16,7 @@ with the DICTATION_LANG constant in static/src/composer_dictation.js.
     "author": "Lien Haesen - Offimac",
     "website": "https://offimac.com/",
     "license": "LGPL-3",
-    "images": ["static/description/Chatter Dictation.png"],
+    "images": ["static/description/image_screenshot.png"],
     "depends": ["mail"],
     "data": [],
     "assets": {
